@@ -14,10 +14,10 @@ public class MathCalc {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         DecimalFormatSymbols symbols = new DecimalFormatSymbols();
+        DecimalFormat df = new DecimalFormat("#,###.#####", symbols);
+
         symbols.setGroupingSeparator('.');
         symbols.setDecimalSeparator(',');
-
-        DecimalFormat df = new DecimalFormat("#,###.#####", symbols);
 
         System.out.print("Masukkan bilangan: ");
         float startingNum = input.nextFloat();
