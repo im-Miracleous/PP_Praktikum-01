@@ -1,6 +1,6 @@
-/*
+package Soal2_MathCalculator;/*
  * PRAKTIKUM 01 "IN234 Paradigma Pemrograman" - SOAL 2
- * Nama Program : MathCalc
+ * Nama Program : Soal2_MathCalculator.MathCalc
  * Deskripsi    : Program menghitung beberapa operasi matematika (seperti kuadrat, perpangkatan 5, akar kuadrat, absolut, dan pembulatan)
  * Penulis      : Miracle Steven Gerrald
  * NRP          : 2472019

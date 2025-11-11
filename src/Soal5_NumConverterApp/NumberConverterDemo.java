@@ -1,7 +1,7 @@
-/*
+package Soal5_NumConverterApp;/*
  * PRAKTIKUM 01 "IN234 Paradigma Pemrograman" - SOAL 5
- * Nama Program : NumberConverterDemo
- * Deskripsi    : Program menjalankan class 'NumberConverter' dan melakukan loop hingga user keluar dari interface (dgn mengetikkan 4)
+ * Nama Program : Soal5_NumConverterApp.NumberConverterDemo
+ * Deskripsi    : Program menjalankan class 'Soal5_NumConverterApp.NumberConverter' dan melakukan loop hingga user keluar dari interface (dgn mengetikkan 4)
  * Penulis      : Miracle Steven Gerrald
  * NRP          : 2472019
 */

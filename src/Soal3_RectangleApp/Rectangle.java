@@ -1,6 +1,6 @@
-/*
+package Soal3_RectangleApp;/*
  * PRAKTIKUM 01 "IN234 Paradigma Pemrograman" - SOAL 3
- * Nama Program : Rectangle
+ * Nama Program : Soal3_RectangleApp.Rectangle
  * Deskripsi    : Program menghitung perpindahan suatu persegi panjang berukuran (panjang x lebar) sejauh x absis dan y ordinat
  * Penulis      : Miracle Steven Gerrald
  * NRP          : 2472019

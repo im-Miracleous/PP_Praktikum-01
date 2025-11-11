@@ -1,7 +1,7 @@
-/*
+package Soal4_WordReverseApp;/*
  * PRAKTIKUM 01 "IN234 Paradigma Pemrograman" - SOAL 4
- * Nama Program : WordReverserDemo
- * Deskripsi    : Program menjalankan class 'WordReverser' dan melakukan loop hingga user keluar dari interface (dgn mengetikkan 0)
+ * Nama Program : Soal4_WordReverseApp.WordReverserDemo
+ * Deskripsi    : Program menjalankan class 'Soal4_WordReverseApp.WordReverser' dan melakukan loop hingga user keluar dari interface (dgn mengetikkan 0)
  * Penulis      : Miracle Steven Gerrald
  * NRP          : 2472019
 */

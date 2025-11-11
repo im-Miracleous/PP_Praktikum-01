@@ -1,6 +1,6 @@
-/*
+package Soal5_NumConverterApp;/*
  * PRAKTIKUM 01 "IN234 Paradigma Pemrograman" - SOAL 5
- * Nama Program : NumberConverter
+ * Nama Program : Soal5_NumConverterApp.NumberConverter
  * Deskripsi    : Program menerima dan memproses angka desimal menjadi bentuk biner, oktal, atau heksadesimal
  * Penulis      : Miracle Steven Gerrald
  * NRP          : 2472019

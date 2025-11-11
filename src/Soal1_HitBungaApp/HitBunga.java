@@ -1,6 +1,6 @@
-/*
+package Soal1_HitBungaApp;/*
  * PRAKTIKUM 01 "IN234 Paradigma Pemrograman" - SOAL 1
- * Nama Program : HitBunga
+ * Nama Program : Soal1_HitBungaApp.HitBunga
  * Deskripsi    : Program menghitung bunga yang didapatkan jika seseorang melakukan deposit dengan suku bunga & jangka waktu tertentu
  * Penulis      : Miracle Steven Gerrald
  * NRP          : 2472019

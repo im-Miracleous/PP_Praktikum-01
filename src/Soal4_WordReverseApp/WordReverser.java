@@ -1,6 +1,6 @@
-/*
+package Soal4_WordReverseApp;/*
  * PRAKTIKUM 01 "IN234 Paradigma Pemrograman" - SOAL 4
- * Nama Program : WordReverser
+ * Nama Program : Soal4_WordReverseApp.WordReverser
  * Deskripsi    : Program membalik kata yang diinputkan
  * Penulis      : Miracle Steven Gerrald
  * NRP          : 2472019
